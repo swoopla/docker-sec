@@ -1,4 +1,4 @@
-FROM perl:slim
+FROM buster:stretch-slim
 
 LABEL MAINTAINER "Swoopla <p.vibet@gmail.com>"
 
