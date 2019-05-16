@@ -1,4 +1,4 @@
-FROM buster:stretch-slim
+FROM debia:buster-slim
 
 LABEL MAINTAINER "Swoopla <p.vibet@gmail.com>"
 
