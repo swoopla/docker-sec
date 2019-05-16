@@ -9,4 +9,4 @@ RUN apt-get update && \
 
 VOLUME ["/etc/sec", "/etc/nagios", "/var/log"]
 
-ENTRYPOINT ["/sr/bin/sec"]
+ENTRYPOINT ["/usr/bin/sec"]
