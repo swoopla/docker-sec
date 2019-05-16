@@ -1,4 +1,4 @@
-FROM debia:buster-slim
+FROM debian:buster-slim
 
 LABEL MAINTAINER "Swoopla <p.vibet@gmail.com>"
 
